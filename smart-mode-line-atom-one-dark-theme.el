@@ -4,9 +4,13 @@
 
 ;; Author: Davide Restivo <davide.restivo@yahoo.it>
 ;; Version: 0.2
+;; URL: https://github.com/daviderestivo/smart-mode-line-atom-one-dark-theme
 ;; Package-Requires: ((emacs "24.3") (smart-mode-line "2.10"))
-;; Keywords: modeline, theme
-;; URL: https://github.com/daviderestivo/emacs-config/blob/master/themes/smart-mode-line-atom-one-dark-theme.el
+;; Keywords: mode-line themes faces
+
+;;; Commentary:
+;;
+;;  Atom-one-dark theme for smart-mode-line
 
 ;;; License:
 ;;
