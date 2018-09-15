@@ -4,8 +4,10 @@
 An atom-one-dark theme for smart-mode-line.
 
 ## Screenshots
+### Active
 ![Smart Modeline Atom One Dark Theme: Active](https://raw.githubusercontent.com/daviderestivo/smart-mode-line-atom-one-dark-theme/master/screenshots/smart-mode-line-atom-one-dark-theme-active.png)
 
+### Inactive
 ![Smart Modeline Atom One Dark Theme: Inactive](https://raw.githubusercontent.com/daviderestivo/smart-mode-line-atom-one-dark-theme/master/screenshots/smart-mode-line-atom-one-dark-theme-inactive.png)
 
 
