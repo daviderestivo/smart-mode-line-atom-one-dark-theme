@@ -10,7 +10,7 @@ An atom-one-dark theme for smart-mode-line.
 
 
 ## Installation
-smart-mode-line is available on Melpa. Please refer to the [[official doc](https://github.com/Malabarba/smart-mode-line)]
+smart-mode-line is available on Melpa. Please refer to the [official doc](https://github.com/Malabarba/smart-mode-line)
 for the installation steps.
 
 Download smart-mode-line-atom-one-dark-theme.el and copy it into your .emacs.d
