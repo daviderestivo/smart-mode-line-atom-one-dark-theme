@@ -3,22 +3,21 @@
 ## Description
 An atom-one-dark theme for smart-mode-line.
 
+## Screenshots
 ![Smart Modeline Atom One Dark Theme: Active](https://raw.githubusercontent.com/daviderestivo/smart-mode-line-atom-one-dark-theme/master/screenshots/smart-mode-line-atom-one-dark-theme-active.png)
 
 ![Smart Modeline Atom One Dark Theme: Inactive](https://raw.githubusercontent.com/daviderestivo/smart-mode-line-atom-one-dark-theme/master/screenshots/smart-mode-line-atom-one-dark-theme-inactive.png)
 
 
 ## Installation
-smart-mode-line is available on Melpa, and that’s the recommended way
-of installing it. Please refer to the [[official doc](https://github.com/Malabarba/smart-mode-line)]
+smart-mode-line is available on Melpa. Please refer to the [[official doc](https://github.com/Malabarba/smart-mode-line)]
 for the installation steps.
 
 Download smart-mode-line-atom-one-dark-theme.el and copy it into your .emacs.d
 theme folder:
 
 ``` bash
-cd ~/.emacs.d
-mkdir themes
+mkdir ~/.emacs.d/themes
 ```
 
 Add the following elisp snippet into init.el:
@@ -39,8 +38,11 @@ If you are using use-package, please use the below elisp snippet:
 (add-to-list 'custom-theme-load-path (expand-file-name "themes"
                                                        user-emacs-directory))
 (use-package smart-mode-line
-  :ensure t
   :config
   (setq sml/theme 'atom-one-dark)
   (sml/setup))
 ```
+
+# Note
+Currently smart-modeline-atom-one-dark theme is not available on Melpa. A
+pull request has been submitted.
