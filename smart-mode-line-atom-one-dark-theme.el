@@ -3,6 +3,9 @@
 ;; Copyright (C) 2018 Davide Restivo <davide.restivo@yahoo.it>
 
 ;; Author: Davide Restivo <davide.restivo@yahoo.it>
+;; Version: 0.2
+;; Package-Requires: ((emacs "24.3") (smart-mode-line "2.10"))
+;; Keywords: modeline, theme
 ;; URL: https://github.com/daviderestivo/emacs-config/blob/master/themes/smart-mode-line-atom-one-dark-theme.el
 
 ;;; License:
@@ -21,6 +24,7 @@
 ;;
 
 ;;; Change Log:
+;; 0.2 - 2018/09/15 - Add packages dependencies, version and keywords
 ;; 0.1 - 2018/06/30 - Created File.
 ;;; Code:
 
