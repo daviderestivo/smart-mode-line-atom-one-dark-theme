@@ -1,5 +1,8 @@
 # smart-mode-line-atom-one-dark-theme
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![MELPA](https://melpa.org/packages/smart-mode-line-atom-one-dark-theme.svg)](https://melpa.org/#/smart-mode-line-atom-one-dark-theme)
+
 ## Description
 An atom-one-dark theme for [smart-mode-line](https://github.com/Malabarba/smart-mode-line).
 
@@ -44,7 +47,3 @@ If you are using use-package, please use the below elisp snippet:
   (setq sml/theme 'atom-one-dark)
   (sml/setup))
 ```
-
-# Note
-Currently smart-modeline-atom-one-dark theme is not available on Melpa. A
-pull request has been submitted.
