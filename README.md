@@ -15,6 +15,7 @@ An atom-one-dark theme for [smart-mode-line](https://github.com/Malabarba/smart-
 
 
 ## Installation
+### Manual
 smart-mode-line is available on Melpa. Please refer to the [official doc](https://github.com/Malabarba/smart-mode-line/blob/master/README.org)
 for the installation steps.
 
