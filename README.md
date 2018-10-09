@@ -1,4 +1,4 @@
-# sml-atom-one-dark-theme
+# smart-mode-line-atom-one-dark-theme
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![MELPA](https://melpa.org/packages/smart-mode-line-atom-one-dark-theme.svg)](https://melpa.org/#/smart-mode-line-atom-one-dark-theme)
@@ -18,7 +18,7 @@ An atom-one-dark theme for [smart-mode-line](https://github.com/Malabarba/smart-
 smart-mode-line is available on Melpa. Please refer to the [official doc](https://github.com/Malabarba/smart-mode-line/blob/master/README.org)
 for the installation steps.
 
-Download sml-atom-one-dark-theme.el and copy it into your .emacs.d
+Download smart-mode-line-atom-one-dark-theme.el and copy it into your .emacs.d
 theme folder:
 
 ``` bash
@@ -42,6 +42,21 @@ If you are using use-package, please use the below elisp snippet:
 ;; Tell Emacs where is your personal theme directory
 (add-to-list 'custom-theme-load-path (expand-file-name "themes"
                                                        user-emacs-directory))
+(use-package smart-mode-line
+  :config
+  (setq sml/theme 'atom-one-dark)
+  (sml/setup))
+```
+
+### Melpa
+Once smart-mode-line-atom-one-dark will be available on Melpa, you can install it using:
+
+``` elisp
+;; An atom-one-dark theme for smart-mode-line
+(use-package smart-mode-line-atom-one-dark-theme
+  :ensure t)
+
+;; smart-mode-line
 (use-package smart-mode-line
   :config
   (setq sml/theme 'atom-one-dark)
