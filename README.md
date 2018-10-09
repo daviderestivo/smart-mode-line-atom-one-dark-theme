@@ -1,4 +1,4 @@
-# smart-mode-line-atom-one-dark-theme
+# sml-atom-one-dark-theme
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![MELPA](https://melpa.org/packages/smart-mode-line-atom-one-dark-theme.svg)](https://melpa.org/#/smart-mode-line-atom-one-dark-theme)
@@ -18,7 +18,7 @@ An atom-one-dark theme for [smart-mode-line](https://github.com/Malabarba/smart-
 smart-mode-line is available on Melpa. Please refer to the [official doc](https://github.com/Malabarba/smart-mode-line/blob/master/README.org)
 for the installation steps.
 
-Download smart-mode-line-atom-one-dark-theme.el and copy it into your .emacs.d
+Download sml-atom-one-dark-theme.el and copy it into your .emacs.d
 theme folder:
 
 ``` bash
