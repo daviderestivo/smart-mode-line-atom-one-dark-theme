@@ -1,8 +1,9 @@
 ;;; smart-mode-line-atom-one-dark-theme.el --- Atom-one-dark theme for smart-mode-line
 
-;; Copyright (C) 2018 Davide Restivo <davide.restivo@yahoo.it>
+;; Copyright (C) 2018-2019 Davide Restivo
 
 ;; Author: Davide Restivo <davide.restivo@yahoo.it>
+;; Maintainer: Davide Restivo <davide.restivo@yahoo.it>
 ;; Version: 0.2
 ;; URL: https://github.com/daviderestivo/smart-mode-line-atom-one-dark-theme
 ;; Package-Requires: ((emacs "24.3") (smart-mode-line "2.10"))
