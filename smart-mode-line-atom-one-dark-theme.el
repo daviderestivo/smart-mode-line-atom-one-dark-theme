@@ -1,6 +1,6 @@
 ;;; smart-mode-line-atom-one-dark-theme.el --- Atom-one-dark theme for smart-mode-line
 
-;; Copyright (C) 2018-2023 Davide Restivo
+;; Copyright (C) 2018-2024 Davide Restivo
 
 ;; Author: Davide Restivo <davide.restivo@yahoo.it>
 ;; Maintainer: Davide Restivo <davide.restivo@yahoo.it>
